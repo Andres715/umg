@@ -1,0 +1,16 @@
+/home/asus/Documentos/STS4 Workspace/umg/src/main/java/com/proyecto/umg/Service/AdminService.java
+/home/asus/Documentos/STS4 Workspace/umg/src/main/java/com/proyecto/umg/Entity/Asignacion.java
+/home/asus/Documentos/STS4 Workspace/umg/src/main/java/com/proyecto/umg/Entity/Admin.java
+/home/asus/Documentos/STS4 Workspace/umg/src/main/java/com/proyecto/umg/Entity/Profesor.java
+/home/asus/Documentos/STS4 Workspace/umg/src/main/java/com/proyecto/umg/Repository/AdminRepository.java
+/home/asus/Documentos/STS4 Workspace/umg/src/main/java/com/proyecto/umg/Repository/AsignacionRepository.java
+/home/asus/Documentos/STS4 Workspace/umg/src/main/java/com/proyecto/umg/UmgApplication.java
+/home/asus/Documentos/STS4 Workspace/umg/src/main/java/com/proyecto/umg/Service/CursoService.java
+/home/asus/Documentos/STS4 Workspace/umg/src/main/java/com/proyecto/umg/Service/ProfesorService.java
+/home/asus/Documentos/STS4 Workspace/umg/src/main/java/com/proyecto/umg/Repository/AlumnoRepository.java
+/home/asus/Documentos/STS4 Workspace/umg/src/main/java/com/proyecto/umg/Entity/Alumno.java
+/home/asus/Documentos/STS4 Workspace/umg/src/main/java/com/proyecto/umg/Entity/Curso.java
+/home/asus/Documentos/STS4 Workspace/umg/src/main/java/com/proyecto/umg/Repository/ProfesorRepository.java
+/home/asus/Documentos/STS4 Workspace/umg/src/main/java/com/proyecto/umg/Repository/CursoRepository.java
+/home/asus/Documentos/STS4 Workspace/umg/src/main/java/com/proyecto/umg/Service/AsignacionService.java
+/home/asus/Documentos/STS4 Workspace/umg/src/main/java/com/proyecto/umg/Service/AlumnoService.java
